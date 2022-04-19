@@ -18,7 +18,7 @@ using System.Windows.Forms;
 
 
 
-namespace BearTale
+namespace logWatchingProgram
 
 {
 
